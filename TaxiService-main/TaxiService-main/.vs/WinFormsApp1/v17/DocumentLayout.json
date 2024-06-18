@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HYPERPC\\Downloads\\TaxiService-main\\TaxiService-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1085246-82E8-4B3A-8CD8-C70F17FF634A}|WinFormsApp1\\TaxiClient.csproj|c:\\users\\hyperpc\\downloads\\taxiservice-main\\taxiservice-main\\winformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1085246-82E8-4B3A-8CD8-C70F17FF634A}|WinFormsApp1\\TaxiClient.csproj|solutionrelative:winformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F69B98-DAD3-4BFA-9B01-CE5C6662276B}|TaxiBusiness\\TaxiBusiness.csproj|c:\\users\\hyperpc\\downloads\\taxiservice-main\\taxiservice-main\\taxibusiness\\services\\mainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F69B98-DAD3-4BFA-9B01-CE5C6662276B}|TaxiBusiness\\TaxiBusiness.csproj|solutionrelative:taxibusiness\\services\\mainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1085246-82E8-4B3A-8CD8-C70F17FF634A}|WinFormsApp1\\TaxiClient.csproj|c:\\users\\hyperpc\\downloads\\taxiservice-main\\taxiservice-main\\winformsapp1\\formcntrls\\mainformcntrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1085246-82E8-4B3A-8CD8-C70F17FF634A}|WinFormsApp1\\TaxiClient.csproj|solutionrelative:winformsapp1\\formcntrls\\mainformcntrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1085246-82E8-4B3A-8CD8-C70F17FF634A}|WinFormsApp1\\TaxiClient.csproj|C:\\Users\\HYPERPC\\Downloads\\TaxiService-main\\TaxiService-main\\winformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1085246-82E8-4B3A-8CD8-C70F17FF634A}|WinFormsApp1\\TaxiClient.csproj|solutionrelative:winformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1085246-82E8-4B3A-8CD8-C70F17FF634A}|WinFormsApp1\\TaxiClient.csproj|c:\\users\\hyperpc\\downloads\\taxiservice-main\\taxiservice-main\\winformsapp1\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1085246-82E8-4B3A-8CD8-C70F17FF634A}|WinFormsApp1\\TaxiClient.csproj|solutionrelative:winformsapp1\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainService.cs",
+              "DocumentMoniker": "C:\\Users\\HYPERPC\\Downloads\\TaxiService-main\\TaxiService-main\\TaxiBusiness\\Services\\MainService.cs",
+              "RelativeDocumentMoniker": "TaxiBusiness\\Services\\MainService.cs",
+              "ToolTip": "C:\\Users\\HYPERPC\\Downloads\\TaxiService-main\\TaxiService-main\\TaxiBusiness\\Services\\MainService.cs",
+              "RelativeToolTip": "TaxiBusiness\\Services\\MainService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwD0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:47:31.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainFormCntrl.cs",
+              "DocumentMoniker": "C:\\Users\\HYPERPC\\Downloads\\TaxiService-main\\TaxiService-main\\WinFormsApp1\\FormCntrls\\MainFormCntrl.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FormCntrls\\MainFormCntrl.cs",
+              "ToolTip": "C:\\Users\\HYPERPC\\Downloads\\TaxiService-main\\TaxiService-main\\WinFormsApp1\\FormCntrls\\MainFormCntrl.cs",
+              "RelativeToolTip": "WinFormsApp1\\FormCntrls\\MainFormCntrl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:47:06.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\HYPERPC\\Downloads\\TaxiService-main\\TaxiService-main\\WinFormsApp1\\MainForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\MainForm.cs",
+              "ToolTip": "C:\\Users\\HYPERPC\\Downloads\\TaxiService-main\\TaxiService-main\\WinFormsApp1\\MainForm.cs",
+              "RelativeToolTip": "WinFormsApp1\\MainForm.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA6wBMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:43:32.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HYPERPC\\Downloads\\TaxiService-main\\TaxiService-main\\WinFormsApp1\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\HYPERPC\\Downloads\\TaxiService-main\\TaxiService-main\\WinFormsApp1\\MainForm.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\MainForm.Designer.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAywBYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:41:26.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\HYPERPC\\Downloads\\TaxiService-main\\TaxiService-main\\WinFormsApp1\\MainForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\MainForm.cs",
+              "ToolTip": "C:\\Users\\HYPERPC\\Downloads\\TaxiService-main\\TaxiService-main\\WinFormsApp1\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "WinFormsApp1\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:41:30.311Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
