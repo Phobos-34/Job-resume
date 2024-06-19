@@ -1,0 +1,3 @@
+SELECT p.ProductName, c.CategoryName
+FROM Products p
+LEFT JOIN ProductCategories c ON p.ProductID = c.ProductID;
