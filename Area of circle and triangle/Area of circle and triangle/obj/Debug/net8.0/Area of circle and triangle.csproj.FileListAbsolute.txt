@@ -1,0 +1,14 @@
+C:\Users\HYPERPC\source\repos\Area of circle and triangle\Area of circle and triangle\bin\Debug\net8.0\Area of circle and triangle.exe
+C:\Users\HYPERPC\source\repos\Area of circle and triangle\Area of circle and triangle\bin\Debug\net8.0\Area of circle and triangle.deps.json
+C:\Users\HYPERPC\source\repos\Area of circle and triangle\Area of circle and triangle\bin\Debug\net8.0\Area of circle and triangle.runtimeconfig.json
+C:\Users\HYPERPC\source\repos\Area of circle and triangle\Area of circle and triangle\bin\Debug\net8.0\Area of circle and triangle.dll
+C:\Users\HYPERPC\source\repos\Area of circle and triangle\Area of circle and triangle\bin\Debug\net8.0\Area of circle and triangle.pdb
+C:\Users\HYPERPC\source\repos\Area of circle and triangle\Area of circle and triangle\obj\Debug\net8.0\Area of circle and triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HYPERPC\source\repos\Area of circle and triangle\Area of circle and triangle\obj\Debug\net8.0\Area of circle and triangle.AssemblyInfoInputs.cache
+C:\Users\HYPERPC\source\repos\Area of circle and triangle\Area of circle and triangle\obj\Debug\net8.0\Area of circle and triangle.AssemblyInfo.cs
+C:\Users\HYPERPC\source\repos\Area of circle and triangle\Area of circle and triangle\obj\Debug\net8.0\Area of circle and triangle.csproj.CoreCompileInputs.cache
+C:\Users\HYPERPC\source\repos\Area of circle and triangle\Area of circle and triangle\obj\Debug\net8.0\Area of circle and triangle.dll
+C:\Users\HYPERPC\source\repos\Area of circle and triangle\Area of circle and triangle\obj\Debug\net8.0\refint\Area of circle and triangle.dll
+C:\Users\HYPERPC\source\repos\Area of circle and triangle\Area of circle and triangle\obj\Debug\net8.0\Area of circle and triangle.pdb
+C:\Users\HYPERPC\source\repos\Area of circle and triangle\Area of circle and triangle\obj\Debug\net8.0\Area of circle and triangle.genruntimeconfig.cache
+C:\Users\HYPERPC\source\repos\Area of circle and triangle\Area of circle and triangle\obj\Debug\net8.0\ref\Area of circle and triangle.dll
