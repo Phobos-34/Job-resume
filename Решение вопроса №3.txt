@@ -1,0 +1,40 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-app
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: my-app
+  template:
+    metadata:
+      labels:
+        app: my-app
+    spec:
+      affinity:
+        podAntiAffinity:
+          requiredDuringSchedulingIgnoredDuringExecution:
+            - labelSelector:
+                matchExpressions:
+                  - key: app
+                    operator: In
+                    values:
+                      - my-app
+              topologyKey: "kubernetes.io/hostname"
+      containers:
+        - name: my-app
+          image: my-app-image:latest
+          resources:
+            requests:
+              cpu: "100m"    # Минимальное потребление CPU
+              memory: "128Mi" # Постоянное потребление памяти
+            limits:
+              cpu: "500m"    # Максимальное потребление CPU
+              memory: "128Mi" # Максимальное потребление памяти
+          readinessProbe:
+            exec:
+              command: ["sh", "-c", "your_readiness_check_command"]
+            initialDelaySeconds: 10  # Задержка перед первой проверкой
+            periodSeconds: 5         # Интервал между проверками
+      terminationGracePeriodSeconds: 30 # Время на завершение работы пода
